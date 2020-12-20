@@ -1,2 +1,2 @@
 # my-new-sketch-blog
- This is my sketch blog - level one
+ This is my sketch blog I made for level one.
